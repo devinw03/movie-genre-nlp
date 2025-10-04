@@ -1,0 +1,35 @@
+# Python & virtualenv
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+.env
+.venv/
+venv/
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.cache/
+*.egg-info/
+
+# Project artifacts
+artifacts/
+!artifacts/reports/
+artifacts/reports/*.ipynb_checkpoints/
+# keep useful small reports (plots/csv) if you want
+#!artifacts/reports/*.png
+#!artifacts/reports/*.csv
+
+# MLflow local tracking
+mlruns/
